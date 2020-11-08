@@ -1,2 +1,2 @@
-def get_employees(self ):
+def get_employees(self):
   print(f'Сотрудника  зовут ...')
