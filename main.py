@@ -1,5 +1,5 @@
-from people import get_employees
-from salary import calculate_salary
+from applicationdb.people import get_employees
+from application.salary import calculate_salary
 from datetime import datetime
 
 def main():
